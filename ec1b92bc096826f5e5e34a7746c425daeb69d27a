@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "430c3520_fb8e2e49",
+        "filename": "lineage_avalon.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-09-30T08:18:21Z",
+      "side": 1,
+      "message": "SPDX-FileCopyrightText: 2025 The LineageOS Project",
+      "range": {
+        "startLine": 2,
+        "startChar": 2,
+        "endLine": 3,
+        "endChar": 1
+      },
+      "revId": "ec1b92bc096826f5e5e34a7746c425daeb69d27a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
