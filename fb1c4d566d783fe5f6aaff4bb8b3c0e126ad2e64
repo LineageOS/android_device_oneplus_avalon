@@ -16,6 +16,24 @@
       "message": "Same here too",
       "revId": "fb1c4d566d783fe5f6aaff4bb8b3c0e126ad2e64",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d4aac0af_86a3d5d0",
+        "filename": "overlay/OPlusFrameworksResTarget/res/values/config.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 311,
+      "author": {
+        "id": 35825
+      },
+      "writtenOn": "2025-09-30T08:56:41Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "2128d7a4_844c803c",
+      "revId": "fb1c4d566d783fe5f6aaff4bb8b3c0e126ad2e64",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
