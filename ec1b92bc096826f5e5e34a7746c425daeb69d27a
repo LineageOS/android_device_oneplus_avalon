@@ -22,6 +22,30 @@
       },
       "revId": "ec1b92bc096826f5e5e34a7746c425daeb69d27a",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a3e8050e_8fd1664c",
+        "filename": "lineage_avalon.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 35825
+      },
+      "writtenOn": "2025-09-30T08:56:13Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "430c3520_fb8e2e49",
+      "range": {
+        "startLine": 2,
+        "startChar": 2,
+        "endLine": 3,
+        "endChar": 1
+      },
+      "revId": "ec1b92bc096826f5e5e34a7746c425daeb69d27a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
