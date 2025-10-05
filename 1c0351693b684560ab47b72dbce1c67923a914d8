@@ -3,6 +3,23 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "f8ae461e_78c08aa6",
+        "filename": "configs/display/displayconfig.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-10-05T10:30:42Z",
+      "side": 1,
+      "message": "Also here, I would prefer to update height and width values, keeping these inverted and later pick I07c9567c1d0c72b7ed77c1fe8fdf399bae30dd85.",
+      "revId": "1c0351693b684560ab47b72dbce1c67923a914d8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "ef3aca47_4b3f4812",
         "filename": "recovery/root/vendor/odm/etc/24211/build.default.prop",
         "patchSetId": 2
