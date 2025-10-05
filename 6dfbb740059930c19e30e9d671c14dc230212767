@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "ea2d3da6_e6ca570d",
+        "filename": "proprietary-files.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 1710,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-10-05T10:21:47Z",
+      "side": 1,
+      "message": "You can copy it to vendor/etc/libnfc-nxp.conf if there\u0027s only 24211 project and at the same time drop the prop.",
+      "range": {
+        "startLine": 1710,
+        "startChar": 40,
+        "endLine": 1710,
+        "endChar": 75
+      },
+      "revId": "6dfbb740059930c19e30e9d671c14dc230212767",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
