@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "a0d7fcb3_f40e3380",
+        "filename": "Android.bp",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-10-05T13:19:04Z",
+      "side": 0,
+      "message": "I\u0027d move these edits to the next change.",
+      "revId": "3232f586d5d282d515854bee96862da8cb4b650f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
