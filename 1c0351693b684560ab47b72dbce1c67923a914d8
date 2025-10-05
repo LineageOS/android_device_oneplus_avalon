@@ -18,6 +18,24 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "702d563d_65c592d3",
+        "filename": "configs/display/displayconfig.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-10-05T11:03:42Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "f8ae461e_78c08aa6",
+      "revId": "1c0351693b684560ab47b72dbce1c67923a914d8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "ef3aca47_4b3f4812",
