@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "a2500b48_21fd0b2d",
+        "filename": "overlay/OPlusFrameworksResTarget/res/values/config.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 297,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-10-05T10:23:15Z",
+      "side": 0,
+      "message": "I think that Chandu meant to keep this formatting.",
+      "range": {
+        "startLine": 293,
+        "startChar": 0,
+        "endLine": 297,
+        "endChar": 9
+      },
+      "revId": "3bc816d8990f62a09c4f51d02efb79d4a118e3c0",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
