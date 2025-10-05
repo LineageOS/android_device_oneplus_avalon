@@ -57,6 +57,30 @@
       },
       "revId": "1c0351693b684560ab47b72dbce1c67923a914d8",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "fceee427_df906d82",
+        "filename": "recovery/root/vendor/odm/etc/24211/build.default.prop",
+        "patchSetId": 2
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 35825
+      },
+      "writtenOn": "2025-10-05T11:14:48Z",
+      "side": 1,
+      "message": "Removed on Ibaee97528839f3b15d4ed49eb39e73fc07c28f86",
+      "parentUuid": "ef3aca47_4b3f4812",
+      "range": {
+        "startLine": 3,
+        "startChar": 0,
+        "endLine": 4,
+        "endChar": 63
+      },
+      "revId": "1c0351693b684560ab47b72dbce1c67923a914d8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
