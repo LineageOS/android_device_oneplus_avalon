@@ -16,6 +16,24 @@
       "message": "This comes at the end.",
       "revId": "cd6266263b46afc5101c3ce3237ed09e6c310b2d",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "104a40f1_1d9e2b04",
+        "filename": "device.mk",
+        "patchSetId": 4
+      },
+      "lineNbr": 37,
+      "author": {
+        "id": 35825
+      },
+      "writtenOn": "2025-10-05T14:44:23Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "25c41b77_2d12317a",
+      "revId": "cd6266263b46afc5101c3ce3237ed09e6c310b2d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
