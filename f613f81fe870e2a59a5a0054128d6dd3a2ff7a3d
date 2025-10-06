@@ -1,0 +1,259 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "bc68d25f_7fe0db3a",
+        "filename": "overlay/OPlusFrameworksResTarget/res/values-sw320dp/dimens.xml",
+        "patchSetId": 8
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 30975
+      },
+      "writtenOn": "2025-10-06T08:11:52Z",
+      "side": 1,
+      "message": "standardized dip → dp and rounded to 2-decimal precision.",
+      "revId": "f613f81fe870e2a59a5a0054128d6dd3a2ff7a3d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "d42562f1_3378880b",
+        "filename": "overlay/OPlusFrameworksResTarget/res/values-sw320dp/dimens.xml",
+        "patchSetId": 8
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 30975
+      },
+      "writtenOn": "2025-10-06T08:11:52Z",
+      "side": 1,
+      "message": "standardized dip → dp and rounded to 2-decimal precision.",
+      "revId": "f613f81fe870e2a59a5a0054128d6dd3a2ff7a3d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "82014242_00647271",
+        "filename": "overlay/OPlusFrameworksResTarget/res/values-sw354dp/dimens.xml",
+        "patchSetId": 8
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 30975
+      },
+      "writtenOn": "2025-10-06T08:11:52Z",
+      "side": 1,
+      "message": "standardized dip → dp and rounded to 2-decimal precision.",
+      "revId": "f613f81fe870e2a59a5a0054128d6dd3a2ff7a3d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "bfbfd0de_898716dd",
+        "filename": "overlay/OPlusFrameworksResTarget/res/values-sw354dp/dimens.xml",
+        "patchSetId": 8
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 30975
+      },
+      "writtenOn": "2025-10-06T08:11:52Z",
+      "side": 1,
+      "message": "standardized dip → dp and rounded to 2-decimal precision.",
+      "revId": "f613f81fe870e2a59a5a0054128d6dd3a2ff7a3d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "7a27b686_57517ecb",
+        "filename": "overlay/OPlusFrameworksResTarget/res/values-sw360dp/dimens.xml",
+        "patchSetId": 8
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 30975
+      },
+      "writtenOn": "2025-10-06T08:11:52Z",
+      "side": 1,
+      "message": "standardized dip → dp and rounded to 2-decimal precision.",
+      "revId": "f613f81fe870e2a59a5a0054128d6dd3a2ff7a3d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "de3734d8_97dfc8b4",
+        "filename": "overlay/OPlusFrameworksResTarget/res/values-sw360dp/dimens.xml",
+        "patchSetId": 8
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 30975
+      },
+      "writtenOn": "2025-10-06T08:11:52Z",
+      "side": 1,
+      "message": "standardized dip → dp and rounded to 2-decimal precision.",
+      "revId": "f613f81fe870e2a59a5a0054128d6dd3a2ff7a3d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "02be1409_6de766cf",
+        "filename": "overlay/OPlusFrameworksResTarget/res/values-sw416dp/dimens.xml",
+        "patchSetId": 8
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 30975
+      },
+      "writtenOn": "2025-10-06T08:11:52Z",
+      "side": 1,
+      "message": "standardized dip → dp and rounded to 2-decimal precision.",
+      "revId": "f613f81fe870e2a59a5a0054128d6dd3a2ff7a3d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "dd32ba58_ff947a49",
+        "filename": "overlay/OPlusFrameworksResTarget/res/values-sw416dp/dimens.xml",
+        "patchSetId": 8
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 30975
+      },
+      "writtenOn": "2025-10-06T08:11:52Z",
+      "side": 1,
+      "message": "standardized dip → dp and rounded to 2-decimal precision.",
+      "revId": "f613f81fe870e2a59a5a0054128d6dd3a2ff7a3d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "01be7b35_b5b64392",
+        "filename": "overlay/OPlusFrameworksResTarget/res/values-sw423dp/dimens.xml",
+        "patchSetId": 8
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 30975
+      },
+      "writtenOn": "2025-10-06T08:11:52Z",
+      "side": 1,
+      "message": "standardized dip → dp and rounded to 2-decimal precision.",
+      "revId": "f613f81fe870e2a59a5a0054128d6dd3a2ff7a3d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "381fbf32_d50fc066",
+        "filename": "overlay/OPlusFrameworksResTarget/res/values-sw423dp/dimens.xml",
+        "patchSetId": 8
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 30975
+      },
+      "writtenOn": "2025-10-06T08:11:52Z",
+      "side": 1,
+      "message": "standardized dip → dp and rounded to 2-decimal precision.",
+      "revId": "f613f81fe870e2a59a5a0054128d6dd3a2ff7a3d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "999ce6c0_9b2b80ca",
+        "filename": "overlay/OPlusFrameworksResTarget/res/values/dimens.xml",
+        "patchSetId": 8
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 30975
+      },
+      "writtenOn": "2025-10-06T08:11:52Z",
+      "side": 1,
+      "message": "I think no need to keep zero deciaml here",
+      "revId": "f613f81fe870e2a59a5a0054128d6dd3a2ff7a3d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "a879a8f7_248ba29b",
+        "filename": "overlay/OPlusFrameworksResTarget/res/values/dimens.xml",
+        "patchSetId": 8
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 30975
+      },
+      "writtenOn": "2025-10-06T08:11:52Z",
+      "side": 1,
+      "message": "Convert to dp",
+      "revId": "f613f81fe870e2a59a5a0054128d6dd3a2ff7a3d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "176b16db_95ccfe51",
+        "filename": "overlay/OPlusFrameworksResTarget/res/values/dimens.xml",
+        "patchSetId": 8
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 30975
+      },
+      "writtenOn": "2025-10-06T08:11:52Z",
+      "side": 1,
+      "message": "Convert to dp",
+      "revId": "f613f81fe870e2a59a5a0054128d6dd3a2ff7a3d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "42bc7176_6a8ac7d0",
+        "filename": "overlay/OPlusSystemUIResTarget/res/values/dimens.xml",
+        "patchSetId": 8
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 30975
+      },
+      "writtenOn": "2025-10-06T08:11:52Z",
+      "side": 1,
+      "message": "convert to dp",
+      "revId": "f613f81fe870e2a59a5a0054128d6dd3a2ff7a3d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "f0f817d3_2aee3dfa",
+        "filename": "overlay/OPlusSystemUIResTarget/res/values/dimens.xml",
+        "patchSetId": 8
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 30975
+      },
+      "writtenOn": "2025-10-06T08:11:52Z",
+      "side": 1,
+      "message": "convert to dp",
+      "revId": "f613f81fe870e2a59a5a0054128d6dd3a2ff7a3d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
