@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "7482204b_d87b13d2",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 5
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-10-06T07:25:19Z",
+      "side": 1,
+      "message": "@chandudyavanapelli03@gmail.com quick review on the chain.",
+      "revId": "9f9f93bc2edc475d5b757876b4f5a920a27408dd",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
