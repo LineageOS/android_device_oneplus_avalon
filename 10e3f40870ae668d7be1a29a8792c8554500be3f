@@ -1,4 +1,22 @@
 {
-  "comments": [],
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "3c96f1a3_e42856fd",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 10
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 36058
+      },
+      "writtenOn": "2025-10-07T23:17:02Z",
+      "side": 1,
+      "message": "CELULAR.  SAMSUNGA12",
+      "revId": "10e3f40870ae668d7be1a29a8792c8554500be3f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ],
   "submitRequirementResults": []
 }
