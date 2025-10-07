@@ -18,6 +18,24 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "87b632b8_1775c0a1",
+        "filename": "overlay/OPlusFrameworksResTarget/res/values-sw320dp/dimens.xml",
+        "patchSetId": 8
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 35825
+      },
+      "writtenOn": "2025-10-07T11:12:00Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "bc68d25f_7fe0db3a",
+      "revId": "f613f81fe870e2a59a5a0054128d6dd3a2ff7a3d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "d42562f1_3378880b",
@@ -31,6 +49,24 @@
       "writtenOn": "2025-10-06T08:11:52Z",
       "side": 1,
       "message": "standardized dip → dp and rounded to 2-decimal precision.",
+      "revId": "f613f81fe870e2a59a5a0054128d6dd3a2ff7a3d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "72ddc79b_7d039904",
+        "filename": "overlay/OPlusFrameworksResTarget/res/values-sw320dp/dimens.xml",
+        "patchSetId": 8
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 35825
+      },
+      "writtenOn": "2025-10-07T11:12:00Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "d42562f1_3378880b",
       "revId": "f613f81fe870e2a59a5a0054128d6dd3a2ff7a3d",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
@@ -52,6 +88,24 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "2beb6c16_12224977",
+        "filename": "overlay/OPlusFrameworksResTarget/res/values-sw354dp/dimens.xml",
+        "patchSetId": 8
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 35825
+      },
+      "writtenOn": "2025-10-07T11:12:00Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "82014242_00647271",
+      "revId": "f613f81fe870e2a59a5a0054128d6dd3a2ff7a3d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "bfbfd0de_898716dd",
@@ -65,6 +119,24 @@
       "writtenOn": "2025-10-06T08:11:52Z",
       "side": 1,
       "message": "standardized dip → dp and rounded to 2-decimal precision.",
+      "revId": "f613f81fe870e2a59a5a0054128d6dd3a2ff7a3d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "fbc002d5_4201b2e6",
+        "filename": "overlay/OPlusFrameworksResTarget/res/values-sw354dp/dimens.xml",
+        "patchSetId": 8
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 35825
+      },
+      "writtenOn": "2025-10-07T11:12:00Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "bfbfd0de_898716dd",
       "revId": "f613f81fe870e2a59a5a0054128d6dd3a2ff7a3d",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
@@ -86,6 +158,24 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "6b300b78_0b96e212",
+        "filename": "overlay/OPlusFrameworksResTarget/res/values-sw360dp/dimens.xml",
+        "patchSetId": 8
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 35825
+      },
+      "writtenOn": "2025-10-07T11:12:00Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "7a27b686_57517ecb",
+      "revId": "f613f81fe870e2a59a5a0054128d6dd3a2ff7a3d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "de3734d8_97dfc8b4",
@@ -99,6 +189,24 @@
       "writtenOn": "2025-10-06T08:11:52Z",
       "side": 1,
       "message": "standardized dip → dp and rounded to 2-decimal precision.",
+      "revId": "f613f81fe870e2a59a5a0054128d6dd3a2ff7a3d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "3c23daff_8e219235",
+        "filename": "overlay/OPlusFrameworksResTarget/res/values-sw360dp/dimens.xml",
+        "patchSetId": 8
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 35825
+      },
+      "writtenOn": "2025-10-07T11:12:00Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "de3734d8_97dfc8b4",
       "revId": "f613f81fe870e2a59a5a0054128d6dd3a2ff7a3d",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
@@ -120,6 +228,24 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "e6281076_75b9d43b",
+        "filename": "overlay/OPlusFrameworksResTarget/res/values-sw416dp/dimens.xml",
+        "patchSetId": 8
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 35825
+      },
+      "writtenOn": "2025-10-07T11:12:00Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "02be1409_6de766cf",
+      "revId": "f613f81fe870e2a59a5a0054128d6dd3a2ff7a3d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "dd32ba58_ff947a49",
@@ -133,6 +259,24 @@
       "writtenOn": "2025-10-06T08:11:52Z",
       "side": 1,
       "message": "standardized dip → dp and rounded to 2-decimal precision.",
+      "revId": "f613f81fe870e2a59a5a0054128d6dd3a2ff7a3d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "83860c9f_3b10a533",
+        "filename": "overlay/OPlusFrameworksResTarget/res/values-sw416dp/dimens.xml",
+        "patchSetId": 8
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 35825
+      },
+      "writtenOn": "2025-10-07T11:12:00Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "dd32ba58_ff947a49",
       "revId": "f613f81fe870e2a59a5a0054128d6dd3a2ff7a3d",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
@@ -154,6 +298,24 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "a139a1cd_0cafd33d",
+        "filename": "overlay/OPlusFrameworksResTarget/res/values-sw423dp/dimens.xml",
+        "patchSetId": 8
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 35825
+      },
+      "writtenOn": "2025-10-07T11:12:00Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "01be7b35_b5b64392",
+      "revId": "f613f81fe870e2a59a5a0054128d6dd3a2ff7a3d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "381fbf32_d50fc066",
@@ -167,6 +329,24 @@
       "writtenOn": "2025-10-06T08:11:52Z",
       "side": 1,
       "message": "standardized dip → dp and rounded to 2-decimal precision.",
+      "revId": "f613f81fe870e2a59a5a0054128d6dd3a2ff7a3d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "edf649c5_0e88345c",
+        "filename": "overlay/OPlusFrameworksResTarget/res/values-sw423dp/dimens.xml",
+        "patchSetId": 8
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 35825
+      },
+      "writtenOn": "2025-10-07T11:12:00Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "381fbf32_d50fc066",
       "revId": "f613f81fe870e2a59a5a0054128d6dd3a2ff7a3d",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
@@ -188,6 +368,24 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "e8deb119_1b7eb0e1",
+        "filename": "overlay/OPlusFrameworksResTarget/res/values/dimens.xml",
+        "patchSetId": 8
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 35825
+      },
+      "writtenOn": "2025-10-07T11:12:00Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "999ce6c0_9b2b80ca",
+      "revId": "f613f81fe870e2a59a5a0054128d6dd3a2ff7a3d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "a879a8f7_248ba29b",
@@ -201,6 +399,24 @@
       "writtenOn": "2025-10-06T08:11:52Z",
       "side": 1,
       "message": "Convert to dp",
+      "revId": "f613f81fe870e2a59a5a0054128d6dd3a2ff7a3d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "391c7400_767f74fe",
+        "filename": "overlay/OPlusFrameworksResTarget/res/values/dimens.xml",
+        "patchSetId": 8
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 35825
+      },
+      "writtenOn": "2025-10-07T11:12:00Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "a879a8f7_248ba29b",
       "revId": "f613f81fe870e2a59a5a0054128d6dd3a2ff7a3d",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
@@ -222,6 +438,24 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "3bd55195_edccd921",
+        "filename": "overlay/OPlusFrameworksResTarget/res/values/dimens.xml",
+        "patchSetId": 8
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 35825
+      },
+      "writtenOn": "2025-10-07T11:12:00Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "176b16db_95ccfe51",
+      "revId": "f613f81fe870e2a59a5a0054128d6dd3a2ff7a3d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "42bc7176_6a8ac7d0",
@@ -239,6 +473,24 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "473f7978_a8b0db14",
+        "filename": "overlay/OPlusSystemUIResTarget/res/values/dimens.xml",
+        "patchSetId": 8
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 35825
+      },
+      "writtenOn": "2025-10-07T11:12:00Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "42bc7176_6a8ac7d0",
+      "revId": "f613f81fe870e2a59a5a0054128d6dd3a2ff7a3d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "f0f817d3_2aee3dfa",
@@ -252,6 +504,24 @@
       "writtenOn": "2025-10-06T08:11:52Z",
       "side": 1,
       "message": "convert to dp",
+      "revId": "f613f81fe870e2a59a5a0054128d6dd3a2ff7a3d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "64cb0c08_5bee65b5",
+        "filename": "overlay/OPlusSystemUIResTarget/res/values/dimens.xml",
+        "patchSetId": 8
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 35825
+      },
+      "writtenOn": "2025-10-07T11:12:00Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "f0f817d3_2aee3dfa",
       "revId": "f613f81fe870e2a59a5a0054128d6dd3a2ff7a3d",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
