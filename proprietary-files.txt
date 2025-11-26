@@ -1,5 +1,5 @@
 ## All proprietary files from this list, unless pinned and noted otherwise,
-## are from OnePlus Nord 4 (CPH2661_15.0.0.1301(EX01)).
+## are from OnePlus Nord 4 (CPH2661_16.0.0.301(EX01)).
 
 # Current blobs with deps disabled:
 # com.oplus.node.mvgsat, com.oplus.node.sstabphoto, com.qti.node.dewarp, com.qti.chi.override, libcamximageformatutils, libchifeature2 depends on multiple versions of the same aidl_interface: android.hardware.graphics.allocator-V1-ndk, android.hardware.graphics.allocator-V2-ndk-source
@@ -830,8 +830,9 @@ odm/etc/camera/CameraHWConfiguration.config
 odm/etc/camera/CameraOemConfiguration.config
 odm/etc/camera/M_FaceAttribute_RGB.model
 odm/etc/camera/Vega_Attribute_Face_RGB.model
-odm/etc/camera/Vega_Detect_FaceAnimal_Gray.model
-odm/etc/camera/Vega_Track_Animals_Gray.model
+odm/etc/camera/Vega_Detect_AnimalBodyFaceEye_Gray.model
+odm/etc/camera/Vega_Detect_BodyHead_Gray.model
+odm/etc/camera/Vega_Detect_CommonFace_BGR.model
 odm/etc/camera/aiboost_qnn_htp2.2.0_2468630351544828688.bin
 odm/etc/camera/aiboost_qnn_htp2.2.0_3404116395018271362.bin
 odm/etc/camera/anc_cl_kernel.cache
@@ -1042,7 +1043,6 @@ odm/lib64/libqsh.utils.so
 odm/lib64/libremosaic_wrapper.so
 odm/lib64/libremosaiclib_s5k3p9.so;FIX_SONAME
 odm/lib64/libremosaiclib_s5kjn1.so;FIX_SONAME
-odm/lib64/libroi.so
 odm/lib64/libsat.so
 odm/lib64/libsaveshaderbin.so
 odm/lib64/libsharebuffer.so
