@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "097ad5c0_b070302c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-11-30T14:22:54Z",
+      "side": 1,
+      "message": "Is this the correct fw version? Check /odm/etc/nfc/nfc_fw_ref.",
+      "revId": "bed2eb884ff497fc78c1a34daadfb48f4e5a1dfd",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
