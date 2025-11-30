@@ -1,4 +1,22 @@
 {
-  "comments": [],
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "045f53c1_25dcc131",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 6360
+      },
+      "writtenOn": "2025-11-30T05:53:37Z",
+      "side": 1,
+      "message": "out/soong/.intermediates/vendor/oneplus/avalon/libaiboost_te/android_vendor_arm64_armv9-a_shared/libaiboost_te.so: error: DT_SONAME \"libaiboost.so\" must be equal to the file name \"libaiboost_te.so\".",
+      "revId": "86fa1255e1a2018d00ddee7df33f93ca24604504",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ],
   "submitRequirementResults": []
 }
