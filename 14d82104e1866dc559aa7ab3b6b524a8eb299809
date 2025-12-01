@@ -52,6 +52,24 @@
       "parentUuid": "e2fe3b27_4c56357f",
       "revId": "14d82104e1866dc559aa7ab3b6b524a8eb299809",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2354b55d_3158ac3a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 35825
+      },
+      "writtenOn": "2025-12-01T08:47:00Z",
+      "side": 1,
+      "message": "odm/etc/vintf/manifest/nfc-service.xml also declares pn560 on avalon.",
+      "parentUuid": "92c24363_cf463b98",
+      "revId": "14d82104e1866dc559aa7ab3b6b524a8eb299809",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
