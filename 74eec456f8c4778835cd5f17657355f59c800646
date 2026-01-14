@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "9bf3214e_5c863e4f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2026-01-14T08:56:15Z",
+      "side": 1,
+      "message": "Isn\u0027t this contradictory with commit message of https://review.lineageos.org/c/LineageOS/android_device_oneplus_sm8650-common/+/468389 ?",
+      "revId": "74eec456f8c4778835cd5f17657355f59c800646",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
