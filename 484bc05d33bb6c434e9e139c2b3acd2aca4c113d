@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "3cc8b310_e0ce17cf",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 35825
+      },
+      "writtenOn": "2026-02-11T15:02:21Z",
+      "side": 1,
+      "message": "Left TARGET_SCREEN_DENSITY :\u003d 530 for recovery.",
+      "revId": "484bc05d33bb6c434e9e139c2b3acd2aca4c113d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
