@@ -16,6 +16,24 @@
       "message": "reason missing here.",
       "revId": "2b757edb41443738de2ba4ecd25e40879dd4f3f6",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "1f2355b4_9e64cbf9",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 35825
+      },
+      "writtenOn": "2026-03-09T16:34:22Z",
+      "side": 1,
+      "message": "Pushed a proper fix, Aperture stopped ignoring camID 0 after some update, it was registering both ID 0 and 1 as main cam.",
+      "parentUuid": "40f210ba_ee78384d",
+      "revId": "2b757edb41443738de2ba4ecd25e40879dd4f3f6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
